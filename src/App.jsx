@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div className="App">
-        <h1>This is App Page</h1>
+        <h1>This is Ecomm Project</h1>
         <button>Normal Button</button>
         <Button>Bootstrap Button</Button>
       </div>
